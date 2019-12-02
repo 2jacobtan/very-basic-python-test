@@ -1,6 +1,10 @@
 # very-basic-python-test
 extremely simple python test for some internship position
 
+## solution
+
+[MAF.py](https://github.com/2jacobtan/very-basic-python-test/blob/master/MAF.py)
+
 ## test content
 
 ### 1.Given a number and reverse it. For example:
