@@ -3,8 +3,6 @@ extremely simple python test for some internship position
 
 ## test content
 
-Python Test
-
 ### 1.Given a number and reverse it. For example:
 
 a. Input 123 , output 321
